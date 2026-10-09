@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:33:36.029Z",
+  "generated_at": "2026-10-09T07:41:30.688Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -259,6 +259,19 @@
       "path": "problems/0195-matrix-determinant-trace",
       "first_solved_at": "2026-10-09T06:37:58.412Z",
       "last_pushed_at": "2026-10-09T06:37:58.412Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-10-09T07:41:29.281Z",
+      "last_pushed_at": "2026-10-09T07:41:29.281Z",
       "language": "python",
       "lines": 16
     }
